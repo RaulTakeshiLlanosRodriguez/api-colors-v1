@@ -1,5 +1,5 @@
 # API-COLORS-V1
-<img align="right" width="120" height="120" src="image.png">
+<img align="center" width="250" height="250" src="image.png">
 
 _API-COLORS-V1 es una aplicación backend desarrollada con Spring para permitir al compañero encargado del frontend obtener los datos de los colores mediante respuestas HTTP._
 
