@@ -1,5 +1,6 @@
 # API-COLORS-V1
 ![Alt text](image.png)
+
 _API-COLORS-V1 es una aplicación backend desarrollada con Spring para permitir al compañero encargado del frontend obtener los datos de los colores mediante respuestas HTTP._
 
 <!-- ``` -->
@@ -45,7 +46,7 @@ VALUES
 # URL
 > [http://localhost:8080/colors?page=0](http://localhost:8080/colors?page=0)
 
-## [Endpoints vía Postman](public/API-Colores%20Collection.postman_collection.json)
+## [Endpoints vía Postman](endpoints/colors.postman_collection.json)
 > Ruta: public/API-Colores Collection.postman_collection.js
 
 ## [Repositorio en Github](https://github.com/MeloDev2111/API-Colores)
