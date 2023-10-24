@@ -51,6 +51,7 @@ VALUES
 > Ruta: endpoints/colors.postman_collection.json
 
 ## [Repositorio en Github](https://github.com/RaulTakeshiLlanosRodriguez/api-colors-v1)
+> Ruta: https://github.com/RaulTakeshiLlanosRodriguez/api-colors-v1
 
 
 
