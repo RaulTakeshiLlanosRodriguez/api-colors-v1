@@ -52,6 +52,9 @@ VALUES
 ## [Endpoints vía Postman](endpoints/colors.postman_collection.json)
 > Ruta: endpoints/colors.postman_collection.json
 
+## [ruta Dockerfile](Dockerfile)
+> Ruta: Dockerfile
+
 ## [Repositorio en Github](https://github.com/RaulTakeshiLlanosRodriguez/api-colors-v1)
 > Ruta: https://github.com/RaulTakeshiLlanosRodriguez/api-colors-v1
 
