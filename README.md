@@ -27,6 +27,7 @@ spring.datasource.username=root
 spring.datasource.password=12345
 ```
 ### Crear Base de datos mediante archivo data.sql
+#### [ubicación data.sql](semilla/data.sql)
 ```shell
 --1. CREAR BASE DE DATOS
 CREATE DATABASE colors;
@@ -47,9 +48,9 @@ VALUES
 > [http://localhost:8080/colors?page=0](http://localhost:8080/colors?page=0)
 
 ## [Endpoints vía Postman](endpoints/colors.postman_collection.json)
-> Ruta: public/API-Colores Collection.postman_collection.js
+> Ruta: endpoints/colors.postman_collection.json
 
-## [Repositorio en Github](https://github.com/MeloDev2111/API-Colores)
+## [Repositorio en Github](https://github.com/RaulTakeshiLlanosRodriguez/api-colors-v1)
 
 
 
